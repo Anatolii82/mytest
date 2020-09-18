@@ -1,0 +1,67 @@
+1)
+From: john.doe@anenduser.com
+To: support@piano.io
+Subject: Piano ID login
+
+Hello Piano,
+I am struggling to understand how to create a login button on my website. Can you send me a code snippet for
+me to use that shows how to have a login button?
+Regards,
+John
+-----------------------------------------------------
+Reply:
+Dear John,
+Thank you for the mail.
+
+Please, use the following link for help:
+- https://docs.piano.io/piano-id-overview/#defaultpianoidsettings
+We want to point out on sections "Example code" for tp.pianoID.init() and tp.pianoID.show() functions.
+
+Should you have further questions or requests, please do not hesitate to contact us.
+Best regards
+Anatolii Nikonets
+-----------------------------------------------------
+
+2)
+From: keyuser@somepublisher.com
+To: support@piano.io
+Fwd: Not able to sign up
+
+Our team has received a ticket from an individual who is having trouble setting up his digital access account.
+When he tries to log in, he gets the message “You have successfully logged in”
+But then when he opens an article he gets the message asking him to purchase a subscription.
+
+Here is his contact information: Ryan Kanp - Enduser@anenduser.com
+
+The Piano dashboard confirms his account, but there are no payment details.
+Can you please look into Mr. Kanp’s account and help us resolve this issue?
+
+-----------------------------------------------------
+Interesting issue. As I still did not test the whole functionality of the system, i suppost that the root of cause 1) inactive login, 2) some blockers on the users web browser.
+
+Reply1:
+Dear Ryan,
+Thank you for the mail.
+
+We analyzed the provided information and we want to point out that the user Ryan Kanp - Enduser@anenduser.com was inactive due to some reasons.
+We immediately fixed this issue and the payment details should be visible.
+
+Should you have further questions or requests, please do not hesitate to contact us.
+Best regards
+Anatolii Nikonets
+
+Reply2:
+Dear Ryan,
+Thank you for the mail.
+
+We analyzed the provided information and we want to point out that the possible root of this case is related to the configuration of Web browser.
+Please, check the settings , reset them to default and provide us the results if the issue is still persist.
+
+If it is possible, try to use the other Web browser and cehck the behavior. Provide us the results.
+
+Should you have further questions or requests, please do not hesitate to contact us.
+Best regards
+Anatolii Nikonets
+-----------------------------------------------------
+
+
